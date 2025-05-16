@@ -7,8 +7,8 @@ let contaClicks=0;
 botao.addEventListener("click", e =>{
     contaClicks++;
     if(contaClicks===1) 
-        mensagem.innerHTML = "Tenha compaixão, ajude os seus companheiros em qualquer oportunidade. \ 
-    Se a oportunidade não surge, saia do seu caminho para encontrá-la.";
+        mensagem.innerHTML = "Tenha compaixão, ajude os seus companheiros em qualquer oportunidade\
+            .Se a oportunidade não surge, saia do seu caminho para encontrá-la.";
     if(contaClicks===2) 
         mensagem.innerHTML = "O caminho do valente não segue os passos da estupidez.";
     if(contaClicks===3) 
