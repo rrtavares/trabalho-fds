@@ -22,10 +22,3 @@ botao.addEventListener("click", e =>{
 
 })
 
-
-
-
-
-function message(){
-    
-}
